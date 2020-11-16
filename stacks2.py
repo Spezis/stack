@@ -1,5 +1,3 @@
-#von Manuel Paul
-
 class stack:
 	def Menu(self): 
 		print('Hinweis: ohne den jeweils vorherigen Punkt können die folgenden nicht korrekt ausgeführt werden!\n')
