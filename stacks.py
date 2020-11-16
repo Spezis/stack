@@ -1,6 +1,3 @@
-#von Manuel Paul
-
-
 def Menu(): 
 	print('Hinweis: ohne den jeweils vorherigen Punkt können die folgenden nicht korrekt ausgeführt werden!\n')
 	menu = int(input('Was soll aufgerufen werden? \nneuerStack [1]\nablegen    [2]\nausgeben   [3]\nlöschen    [4]\n-> '))
