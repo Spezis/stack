@@ -1,3 +1,3 @@
-# stack
+# Stack
 Stack - simulation
  
